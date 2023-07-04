@@ -1,3 +1,5 @@
+#Esto es un cambio en este código
+
 def evaluar_diabetes():
     preguntas = [
         "¿Cuál es tu edad?",
