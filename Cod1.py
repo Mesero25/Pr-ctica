@@ -1,6 +1,6 @@
 
 def calcular_imc(peso, altura):
-    # Fórmula para el cálculo del IMC
+    # Fórmula para el cálculo del IMC en el que estpoo es un cambio 
     imc = peso / (altura ** 2)
     return imc
 
